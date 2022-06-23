@@ -1,0 +1,30 @@
+  .circle {
+      list-style-type: circle;
+  }
+
+  .item {
+      display: grid;
+      border: 1px solid rgba(0, 0, 0, 0.8);
+      margin-top: -10px;
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+
+  .container {
+      display: grid;
+      grid-template-columns: auto auto auto;
+      padding: 10px;
+  }
+
+  .grid {
+      border: 1px solid rgba(0, 0, 0, 0.8);
+      padding: 0px;
+  }
+
+  p {
+      padding: 5px;
+  }
+
+  label {
+      padding: 6px;
+  }
